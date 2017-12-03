@@ -1,0 +1,12 @@
+# mac
+.DS_Store
+
+.idea
+
+# nodejs
+node_modules
+
+# hexo
+public
+themes/landscape
+.deploy_git
